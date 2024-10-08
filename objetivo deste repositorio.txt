@@ -1,0 +1,3 @@
+O objetivo deste repositório é armazenar arquivos em PDF, atividades, exemplos e estudos referentes à Banco de dados.
+
+Unidade Curricular: Banco de Dados do Curso Técnico em Desenvolvimento de Sistemas Data da criação: 08/10/2024
